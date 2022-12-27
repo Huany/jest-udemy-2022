@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "dependencies": {
+    "jest-docblock": "^29.0.0",
+    "jest-get-type": "^29.0.0",
+    "jest-validate": "^29.0.3",
+    "jest-worker": "^29.0.3",
+    "pretty-format": "^29.0.3"
+  }
+}
